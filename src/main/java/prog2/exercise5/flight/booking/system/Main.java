@@ -4,6 +4,7 @@ public class Main {
     public static void main( String[] args )
     {
         int size = 3;
+        size=3;
         FlightBooking fb = new FlightBooking(size);
 
         String [] fullName = {"Matt Jive", "Sally Fields", "Posh Quattro"};
